@@ -1,6 +1,6 @@
 ---
 title: "How I Built a Better Browser History Tool for Volatility 3"
-date: 2025-11-24T22:26:18+01:00
+date: 2025-11-23T22:26:18+01:00
 draft: false
 tags: ["cybersecurity", "volatility3", "memory-forensics", "incident-response", "tools"]
 categories: ["Digital Forensics", "Project"]
